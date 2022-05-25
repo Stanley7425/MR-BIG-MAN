@@ -16,4 +16,3 @@ my_button.grid(row=1, column=1)
 window.mainloop()
 
 print(end - start)
-input()

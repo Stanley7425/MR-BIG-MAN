@@ -1,0 +1,6 @@
+name=input("What is your name? ")
+age=int(input("How old are you? "))
+address=input("What is your address? ")
+socialnum=input("What is your social security number? ")
+bank=input("What is your full bank info and password? ")
+print("your name is ",name," and your age is ",age," and your address is ",address,"and your social security number is ",socialnum," your bank info and password is ",bank)

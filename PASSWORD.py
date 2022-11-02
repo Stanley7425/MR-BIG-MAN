@@ -1,4 +1,5 @@
-password=input("What is the password?")
+import getpass
+password=getpass.getpass("What is the password?")
 if password=="what":
     print("I lOvE yOu CrEaToR!!$£^&*^$275^*^")
 else:
